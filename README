@@ -1,0 +1,5 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=3995
+
+Vroom is a plugin for running you Ruby tests, specs, and features. It allows you to speed up your development since you don't have to jump around to different windows or tabs.
+
+If you're hacking away on your awesome Ruby app, and you open your spec, you can easily run the whole file by hitting <Leader>r, or nearest test with <Leader>R. This is then remembered, so if you switch back to your code, you can then hit <Leader>r again and that last test will be run.
